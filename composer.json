@@ -1,0 +1,17 @@
+{
+  "name": "few/fields",
+  "autoload": {
+    "psr-4": {
+      "Few\\Fields\\": "src/"
+    },
+    "psr-0": {
+      "": "src"
+    }
+  },
+  "require": {
+    "rappasoft/laravel-helpers": "dev-master"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "~2.0"
+  }
+}

@@ -1,0 +1,22 @@
+<?php return [
+  'key' => '',
+  'label' => '',
+  'name' => '',
+  'type' => 'taxonomy',
+  'instructions' => '',
+  'required' => 1,
+  'conditional_logic' => 0,
+  'wrapper' => [
+    'width' => '',
+    'class' => '',
+    'id' => '',
+  ],
+  'taxonomy' => '',
+  'field_type' => 'select',
+  'allow_null' => 0,
+  'add_term' => 0,
+  'save_terms' => 1,
+  'load_terms' => 0,
+  'return_format' => 'object',
+  'multiple' => 0,
+];
