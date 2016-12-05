@@ -12,7 +12,7 @@ class Tab extends Field
 
     $slug = snake_case($class->getShortName());
 
-    $this->template = require(__DIR__ . "/../templates/$slug.php");
+    $this->template = require(__DIR__ . "/../../templates/$slug.php");
   }
 
   /**
