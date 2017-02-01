@@ -1,5 +1,7 @@
 <?php namespace Few\Fields;
 
+
+
 /**
  * Class Color
  * @package Few\Fields
